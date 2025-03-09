@@ -13,7 +13,7 @@ localizations = {}
 localizations_nav = {}
 
 # Klucz API do pogodowej usługi
-weather_api = "da05dff8c4cb4f9102df5888a77faff0"
+weather_api = ""
 
 # Klasa wykresy odpowiadająca za tworzenie wykresów pogodowych
 class wykresy():
